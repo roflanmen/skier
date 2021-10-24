@@ -1,4 +1,6 @@
 # skier
+run ski.exe to start the game
+
 w/up arrow - boost
 
 a/left arrow - rotate counterclockwise
